@@ -1,0 +1,9 @@
+Добрый день.
+Не осилил это задание.
+При запуске вылетает ошибка:
+
+raise error.ReactorAlreadyInstalledError("reactor already installed")
+twisted.internet.error.ReactorAlreadyInstalledError: reactor already installed
+
+Пробовал удалить twisted.internet.reactor,
+но ни кчему хорошему не привело - работает толко superjob и процесс не завершается.
